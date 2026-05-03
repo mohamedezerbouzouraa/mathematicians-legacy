@@ -28,6 +28,5 @@ def chat():
     chat_session = model.start_chat(history=[])
     response = chat_session.send_message(SYSTEM_PROMPT + "\nUtilisateur: " + user_input)
     return jsonify({"reply": response.text})
-
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5000, debug=True)
