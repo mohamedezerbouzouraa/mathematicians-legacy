@@ -12,8 +12,7 @@ const mathematicians = [
         dates: '1887 – 1920',
         description: 'Sans formation formelle, il redécouvrit seul des siècles de mathématiques et produisit plus de 3900 formules originales.',
         signatureFormula: { label: 'Somme de Ramanujan', eq: '1+2+3+··· = −1/12' },
-        continent: 'Asie'
-    },
+        continent: 'Asie' },
     {
         id: 'gauss',
         name: 'Carl Friedrich Gauss',
