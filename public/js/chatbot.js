@@ -2,8 +2,7 @@ const API_URL = "http://127.0.0.1:5000/chat";
 
 document.getElementById('prompt').addEventListener('keypress', function (e) {
     if (e.key === 'Enter') {
-        sendMessage();
-    }
+        sendMessage();}
 });
 async function sendMessage() {
     const input = document.getElementById("prompt");
