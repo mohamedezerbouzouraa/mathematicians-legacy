@@ -1,6 +1,5 @@
 const mathematicians = [
-    {
-        id: 'al_khwarizmi',
+    { id: 'al_khwarizmi',
         name: 'Al-Khwarizmi',
         image: '/images/f1.jfif',
         era: 'Moyen Âge · v. 780–850',
