@@ -12,7 +12,8 @@
     border-radius: 20px;
     background: rgba(255,255,255,0.03);
     transition: color 0.2s, border-color 0.2s;
-    text-transform: uppercase;}
+    text-transform: uppercase;
+}
 .back-btn:hover {
     color: var(--accent-teal);
     border-color: var(--border-glow);
