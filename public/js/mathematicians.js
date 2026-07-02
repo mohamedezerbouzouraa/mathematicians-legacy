@@ -12,8 +12,7 @@ const mathematicians = [
         history: [
             { year: '780', text: 'Naissance dans la région du Khwarezm.' },
             { year: '820', text: 'Prend la direction de la Maison de la Sagesse à Bagdad.' },
-            { year: '825', text: 'Publie son ouvrage majeur sur le calcul par complétion.' }
-        ],
+            { year: '825', text: 'Publie son ouvrage majeur sur le calcul par complétion.' }],
         historyText: [
             'Son nom latinisé, Algoritmi, a donné le mot "algorithme".',
             'Il a transformé l\'algèbre en une science de la résolution d\'équations.'
