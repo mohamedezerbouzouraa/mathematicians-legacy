@@ -9,6 +9,6 @@ class MapController extends AbstractController
 {
     #[Route('/map', name: 'app_map')]
     public function index(): Response
-    {   return $this->render('mathematicians/map.html.twig');
+    {    return $this->render('mathematicians/map.html.twig');
     }
 }
