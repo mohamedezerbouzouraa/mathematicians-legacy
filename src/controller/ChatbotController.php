@@ -9,5 +9,6 @@ class ChatbotController extends AbstractController
     public function index()
     {
         return $this->render('mathematicians/chatbot.html.twig');
+        
     }
 }
