@@ -10,5 +10,6 @@ class MathematicianController extends AbstractController
     public function index(): Response
     {
         return $this->render('mathematicians/index.html.twig');
+        
     }
 }
